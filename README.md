@@ -1,3 +1,2 @@
-# tensorlowbeginnerforimageclassification
-A Study on Python Image Classification using TensorFlow
-TensorFlow Tool is deeply used for Machine Learning
+# Image Recognition
+Image recognition refers to technologies that identify places, logos, people, objects, buildings, and several other variables in images. Users are sharing vast amounts of data through apps, social networks, and websites.
